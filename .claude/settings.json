@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:mrislambd.github.io)",
+      "Bash(curl -sL \"https://mrislambd.github.io/statandprob/posts/optionprice/\" -o \"/e/lianxhta/Ella/OK-B830-史云慧：翻译 + 适当补充：BS 公式与 Python 演示/original.html\")",
+      "Bash(curl -sLk \"https://mrislambd.github.io/statandprob/posts/optionprice/\" -o \"/e/lianxhta/Ella/OK-B830-史云慧：翻译 + 适当补充：BS 公式与 Python 演示/original.html\")",
+      "WebSearch",
+      "Bash(curl -s \"https://api.github.com/users/mrislambd/repos\")",
+      "mcp__utools__utools_6e00d74f_browser_history_search"
+    ]
+  }
+}

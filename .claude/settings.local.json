@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node:*)",
+      "Bash(curl:*)",
+      "Bash(jupyter nbconvert:*)",
+      "Bash(python test_brownian_motion.py)",
+      "Bash(cd /d)",
+      "Bash(dir Anaconda)",
+      "Bash(/d/Anaconda/python.exe:*)",
+      "Bash(ls:*)"
+    ]
+  }
+}
